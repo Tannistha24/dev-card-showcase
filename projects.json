@@ -1642,6 +1642,10 @@
     "github": "https://github.com/your-github-username"
   }
 },
+
+{
+  "title": "Decision Consequences Simulator ⚖️",
+  "description": "An interactive system showing consequences of user decisions across real-life scenarios.",
 {
   "title": "Interactive History Timeline 🕰️",
   "description": "An interactive timeline to explore historical eras with facts and mini quizzes.",
@@ -1651,6 +1655,7 @@
     "HTML",
     "CSS",
     "JavaScript",
+    "Decision Making",
     "Education",
     "History",
     "Interactive UI"
@@ -1668,6 +1673,11 @@
     "Interactive Learning"
   ],
   "links": {
+    "live": "./projects/decision-consequences-simulator/index.html"
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
     "live": "./projects/LearnXO/index.html"
   },
   "author": {
